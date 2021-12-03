@@ -1,5 +1,5 @@
 {
-    "name": "helloakn/zoteframework",
+    "name": "helloakn/zframework",
     "description": "Zframework , it is php framework.",
     "type": "library",
     "require": {
@@ -12,5 +12,10 @@
         "email": "aungkyawnyunt2004@gmail.com"
       }
     ],
-    "minimum-stability": "dev"
+    "minimum-stability": "dev",
+    "autoload": {
+      "psr-4": {
+        "zframework\\": "./"
+      }
+    }
   }

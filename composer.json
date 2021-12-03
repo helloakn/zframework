@@ -1,0 +1,16 @@
+{
+    "name": "helloakn/zframework",
+    "description": "Zframework , it is php framework.",
+    "type": "library",
+    "require": {
+      "php": ">=7.0.2"
+    },
+    "license": "proprietary",
+    "authors": [
+      {
+        "name": "AKN",
+        "email": "aungkyawnyunt2004@gmail.com"
+      }
+    ],
+    "minimum-stability": "dev"
+  }

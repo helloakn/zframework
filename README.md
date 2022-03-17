@@ -1,12 +1,12 @@
-# Zote
-==================
+# PHP Sample Framework
+==========================
 ## Create Project
 ```
-php zote-framework/zote init 
+php zframework/zote init 
 ```
 After init prject, file structure will be
 ```
- [dir] zote-framework
+ [dir] zframework
     []...
  [dir] project
     [file] .env

@@ -1,5 +1,6 @@
-# PHP Sample Framework
-==========================
+# zframework 
+[![Star Count](https://img.shields.io/badge/dynamic/json?color=brightgreen&label=Star&query=stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fhelloakn%2Fzframework)](https://github.com/helloakn/zframework) [![Licence](https://img.shields.io/badge/dynamic/json?color=informational&label=LICENCE&query=license.name&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fhelloakn%2Fzframework)](https://github.com/helloakn/zframework) [![Language](https://img.shields.io/badge/dynamic/json?color=blueviolet&label=Language&query=language&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fhelloakn%2Fzframework)](https://github.com/helloakn/zframework)
+
 ## Create Project
 ```
 php zframework/zote init 
